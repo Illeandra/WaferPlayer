@@ -4,7 +4,7 @@ WaferPlayer.js simple video player Framework
 
 with wafer player.js we can make multi resolutions easily and there is also a subtitles/CC feature
 
-![waferPlayer.js](https://github.com/Illeandra/WaferPlayer/blob/158e46a1747e56167e1d62104fb9cec1abf22177/Screenshot%202021-09-20%20194627.png)
+![waferPlayer.js](https://github.com/Illeandra/WaferPlayer/blob/91ce0809b08f7a26e22d82dc08531ce30bed2d76/sample-waferPlayer.js.png)
 
 **application :**
 
